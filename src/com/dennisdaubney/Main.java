@@ -6,3 +6,4 @@ public class Main {
 	// practice intellij github integration
     }
 }
+//practicing git with intellij
